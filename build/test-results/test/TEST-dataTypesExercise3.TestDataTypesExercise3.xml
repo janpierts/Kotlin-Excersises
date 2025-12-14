@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dataTypesExercise3.TestDataTypesExercise3" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-12-14T19:34:34" hostname="rjdev" time="0.005">
+  <properties/>
+  <testcase name="testA" classname="dataTypesExercise3.TestDataTypesExercise3" time="0.003"/>
+  <testcase name="testB" classname="dataTypesExercise3.TestDataTypesExercise3" time="0.0"/>
+  <testcase name="testC" classname="dataTypesExercise3.TestDataTypesExercise3" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
