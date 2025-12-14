@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="numberTypesExercise3.TestNumberTypesExercise3" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-14T21:41:01" hostname="rjdev" time="0.007">
+  <properties/>
+  <testcase name="test1FahrenheitToCelsius" classname="numberTypesExercise3.TestNumberTypesExercise3" time="0.004"/>
+  <testcase name="test2FahrenheitToCelsius" classname="numberTypesExercise3.TestNumberTypesExercise3" time="0.001"/>
+  <testcase name="test3CelsiusToFahrenheit" classname="numberTypesExercise3.TestNumberTypesExercise3" time="0.0"/>
+  <testcase name="test4CelsiusToFahrenheit" classname="numberTypesExercise3.TestNumberTypesExercise3" time="0.001"/>
+  <testcase name="test5CelsiusToFahrenheit" classname="numberTypesExercise3.TestNumberTypesExercise3" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
