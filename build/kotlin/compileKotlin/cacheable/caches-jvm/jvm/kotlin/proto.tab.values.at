@@ -1,4 +1,7 @@
-ntegerBigIntKt
+sKt
+
+
+bigintegerBigIntKt
 
 booleansExercise1TaskKt
 
@@ -830,9 +833,10 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     
-UnSealedKt" *     withoutsealedclasses
-UnSealedKt" *     gumentsWithoutDefaultArgumentsKt
+UnSealedKt" *     argumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     Kt
 "
 withoutsealedclasses
 UnSealedKt" *     sesCounterFactoryKtHotelKtInnerClassInheritanceKtLocalInnerClassesKtQualifiedThisKt
