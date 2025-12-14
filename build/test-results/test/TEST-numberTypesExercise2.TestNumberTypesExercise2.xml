@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="numberTypesExercise2.TestNumberTypesExercise2" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-12-14T20:57:31" hostname="rjdev" time="0.008">
+  <properties/>
+  <testcase name="test1Million" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.004"/>
+  <testcase name="test2Billion" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.001"/>
+  <testcase name="test3Trillion" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.0"/>
+  <testcase name="test4Quintillion" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.001"/>
+  <testcase name="test5MillionType" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.0"/>
+  <testcase name="test6BillionType" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.001"/>
+  <testcase name="test7TrillionType" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.001"/>
+  <testcase name="test8QuintillionType" classname="numberTypesExercise2.TestNumberTypesExercise2" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
