@@ -2,7 +2,11 @@
 package loopingAndRangesExercise3
 
 fun sumOfEven(n: Int): Int {
-  TODO()
+  var dato = 0
+  for(i in 1..n){
+    dato+=if(i%2==0)i else 0
+  }
+  return dato
 }
 
 fun main() {

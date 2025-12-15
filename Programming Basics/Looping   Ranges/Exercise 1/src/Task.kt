@@ -2,7 +2,11 @@
 package loopingAndRangesExercise1
 
 fun factorial(n: Int): Long {
-  TODO()
+  var dato : Long = 1L
+  for(i in 1 .. n){
+    dato*=i
+  }
+  return dato
 }
 
 fun main() {

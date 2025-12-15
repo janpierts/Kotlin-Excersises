@@ -10,7 +10,14 @@ fun factorial(n: Int): Long {
 }
 
 fun sumOfFactorials(n: Int): Long {
-  TODO()
+  var sum: Long = 0L
+
+  for (i in 1..n) {
+    val currentFactorial = factorial(i)
+    sum += currentFactorial
+  }
+
+  return sum
 }
 
 fun main() {

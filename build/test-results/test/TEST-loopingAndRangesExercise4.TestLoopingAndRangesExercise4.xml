@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-15T03:24:40" hostname="rjdev" time="0.016">
+  <properties/>
+  <testcase name="testPyramid1" classname="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" time="0.012"/>
+  <testcase name="testPyramid2" classname="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" time="0.0"/>
+  <testcase name="testPyramid3" classname="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" time="0.001"/>
+  <testcase name="testPyramid4" classname="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" time="0.001"/>
+  <testcase name="testPyramid6" classname="loopingAndRangesExercise4.TestLoopingAndRangesExercise4" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
